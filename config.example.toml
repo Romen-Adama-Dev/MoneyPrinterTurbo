@@ -347,7 +347,9 @@ open_task_folder_on_completion = true
 
 # The WebUI writes the remaining preferences automatically. Uncomment values
 # below only when you want to define initial defaults manually.
-# language = "zh"
+# Esta edición abre la interfaz en español la primera vez. El selector de idioma
+# de la esquina superior permite cambiarlo y guarda la preferencia en config.toml.
+language = "es"
 # tts_server = "azure-tts-v1"
 # voice_name = ""
 # font_name = "MicrosoftYaHeiBold.ttc"
